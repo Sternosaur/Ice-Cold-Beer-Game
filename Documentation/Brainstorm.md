@@ -8,3 +8,9 @@
 - [Wikipedia entry for Ice Cold Beer arcade game](https://en.wikipedia.org/wiki/Ice_Cold_Beer)
 - [Ice Cold Beer Gameplay Video](https://www.youtube.com/watch?v=po6beHThvfw)
 - [Ice Cold Beer Arcade Cabinet Interface](https://www.youtube.com/watch?v=-uOwARIPkDc)
+## Conclusion
+1. A player could control a bar through the use of a keyboard or a controller.
+1. This could work as a mobile game using tilt controls on smart phones.
+1. This could work as a console game as well through the use of joysticks on a controller.
+1. The theme could include a mountain climber trying to reach his objective.
+1. We can start working on a project through Unity.
