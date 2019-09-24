@@ -18,8 +18,6 @@
   The player character is a bar that balances a ball as it rolls back and fourth across it's surface.
   No other characterics are given about the ball, the bar must help the ball reach the goal.
  <br/>
- <br/>
- <br/>
     <p align="center">
   <img width="201" height="333" src="https://github.com/Sternosaur/Ice-Cold-Beer-Game/blob/master/Documentation/icecoldbeer.png">
 </p>
