@@ -16,8 +16,8 @@
   and progress to more challenging holes.
   **Score** enough **points** to **gain an extra life**.
 - ## Player Character
-  The player character is a mountain climber who's working his way up the mountain to explore the caves for treasure.  No physical details are given about the character, allowing players to role play and make up their own assumptions about the character's demographic.
+  The player character is a mountain climber who's working their way up the mountain to explore the caves for treasure.  No physical details are given about the character, allowing players to role play and make up their own assumptions about the character's demographic.
  <br/>
     <p align="center">
-  <img width="201" height="333" src="https://github.com/Sternosaur/Ice-Cold-Beer-Game/blob/master/Documentation/icecoldbeer.png">
+  <img width="201" height="333" src="https://github.com/Sternosaur/Ice-Cold-Beer-Game/blob/master/Documentation/Mountain%20Climber.png">
 </p>
