@@ -6,4 +6,5 @@
   The ball and bar return to the bottom of the playfield, and the next target hole is lit.  This project will be made on
   Unity version 2019.1.10.  I've included the project design document below.
 ## Attachments
+- [Brainstorming](https://github.com/Sternosaur/Ice-Cold-Beer-Game/blob/master/Documentation/Brainstorm.md)
 - [Project Design Document](https://github.com/Sternosaur/Ice-Cold-Beer-Game/blob/master/Documentation/DesignDocument.md)
