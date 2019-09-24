@@ -1,4 +1,4 @@
-# Ice-Cold-Beer-Game
+# Mountain Climber
 
 ## Summary
   This project aims to virtually create a 2d game based off of an older game called Ice Cold Beer.
