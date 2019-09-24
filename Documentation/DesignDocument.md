@@ -1,7 +1,7 @@
 # Mountain Climber
 
 - ## Overview
-  *Mountain  Climber* is a single player, dexterity-based game for PC heavy inspired by [Ice Cold Beer](https://www.youtube.com/watch?v=po6beHThvfw).
+  *Mountain  Climber* is a single player, dexterity-based game for PC heavily inspired by [Ice Cold Beer](https://www.youtube.com/watch?v=po6beHThvfw).
 - ## Objectives
   The player must scale their way up the mountain in search for treasure, using their balance to navigate around bear infested caves.
   - The player must carefully **move both sides** of a **bar**.
