@@ -12,9 +12,8 @@
   The player can move the bar on both sides up and down, which will roll the ball back and fourth against
   a solid background filled with many holes.
 
-  If the ball falls into an **unlit hole**, the player will **lose a life**.  Score the ball into a **lit hole** to **rack up points**
-  and progress to more challenging holes.
-  **Score** enough **points** to **gain an extra life**.
+  *More points* are added to the player's score the *faster they reach the treasure.*  If the player *goes into the wrong cave*, they will   be eaten by a bear and *lose a life*. The player has a **score counter** and a **life counter**.
+  If the player manages to *score enough points*, they will *earn an extra life*.
 - ## Player Character
   The player character is a mountain climber who's working their way up the mountain to explore the caves for treasure.  No physical details are given about the character, allowing players to role play and make up their own assumptions about the character's demographic.
  <br/>
