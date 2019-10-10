@@ -5,26 +5,25 @@ using UnityEngine;
 public class MovingRampScript : MonoBehaviour
 {
     private float moveSpeed = 0.05f;
+    private float verticalInput;
+
+    private Rigidbody2D rigidBody;
+    //private SpriteRenderer spriteRenderer;
 
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("Test hello world.");
+        //spriteRenderer = GetComponent<SpriteRenderer>();
+        //spriteRenderer.color = Color.green;
+
+        rigidBody = GetComponent<Rigidbody2D>();
+        
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
-        //if the player presses up arrow, we move the square up.
-        //if the player presses the down arrow, we move the square down.
-        if (Input.GetKey(KeyCode.UpArrow))
-        {
-            transform.Translate(0, moveSpeed, 0);
-        }
-        if (Input.GetKey(KeyCode.DownArrow))
-        {
-            transform.Translate(0, -moveSpeed, 0);
-        }
-
+        verticalInput = Input.GetAxis("Vertical");
+        rigidBody.velocity = new Vector2(0, verticalInput * moveSpeed);
     }
 }
