@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class MovingRampScript : MonoBehaviour
 {
-    private float moveSpeed = 0.05f;
+    public float moveSpeed = 0.05f;
+    public string inputAxis;
     private float verticalInput;
-
     private Rigidbody2D rigidBody;
     //private SpriteRenderer spriteRenderer;
 
@@ -21,9 +21,9 @@ public class MovingRampScript : MonoBehaviour
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    private void FixedUpdate()
     {
-        verticalInput = Input.GetAxis("Vertical");
+        verticalInput = Input.GetAxis(inputAxis);
         rigidBody.velocity = new Vector2(0, verticalInput * moveSpeed);
     }
 }
