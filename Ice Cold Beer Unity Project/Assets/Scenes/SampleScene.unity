@@ -1066,7 +1066,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Game Over
+  m_Text: 'Game Over
+
+    Press R to restart.'
 --- !u!222 &463860783
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5089,7 +5091,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: You win
+  m_Text: 'You win!
+
+    Press R to Restart.'
 --- !u!222 &2056089701
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -24,6 +24,7 @@ public class Goal : MonoBehaviour
             // cue sound effect here
             audioSource.Play();
             Debug.Log("The player has entered the goal!");
+            GameOver.IsGameOver = true;
         }
     }
 

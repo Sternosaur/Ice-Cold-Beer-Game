@@ -16,7 +16,7 @@ public class Obstacle : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log("Touched trigger.");
-        if (collision.tag == "Player")
+        if (collision.tag == "Player" && !GameOver.IsGameOver)
         {
             gameOverText.SetActive(true);
             // cue sound effect here
